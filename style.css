@@ -21,46 +21,50 @@ nav img {
   justify-content:flex-start;
 }
 
-nav a, ul {
+nav a ul {
   text-decoration:underline;
   align-content:center;
   justify-content:flex-end;
 }
 
 h1 {
-
+  font-size:2.5rem;
 }
 
 h2 {
-
+  font-size:2rem;
+  color:seashell;
 }
 
 h3 {
-
+  font-size:1.75rem;
 }
 
 h4 {
-
+  font-size:1.5rem;
 }
 
 h5 {
-
+  font-size:1.25rem;
 }
 
-.mission{
-
+.mission div{
+  background-image:url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+  width:1200px;
+  height:700px;
 }
 
-.mission img {
-
+.missiontext div {
+  background-color:black;
 }
 
-.teaofmonth {
-
+.teaofmonth div {
+  width:1000px;
 }
 
-container .images {
-
+.teaofthemonth img {
+  height:200px;
+  width:300px;
 }
 
 container .locations {
