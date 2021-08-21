@@ -1,0 +1,73 @@
+html,
+body {
+  font-family:Helvetica;
+  font-size:22px;
+  color:seashell;
+  background-color:black;
+  opacity:0.9;
+  text-justify:center;
+}
+
+nav {
+  height:69px;
+  border-bottom:1px solid seashell;
+  display:fixed;
+}
+
+nav img {
+  height:50px;
+  padding-left:10px;
+  
+}
+
+nav .text {
+  text-decoration:underline;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+.mission{
+
+}
+
+.mission img {
+
+}
+
+.teaofmonth {
+
+}
+
+container .images {
+
+}
+
+container .locations {
+
+}
+
+footer {
+
+} 
+
+copyright {
+
+}
