@@ -23,6 +23,7 @@ h2, h3, h4 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin:40px;
 }
 
 /* Header and Navigation */
@@ -55,7 +56,6 @@ nav span {
   height:700px;
   background-image:url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
   padding-top:70px;
-  margin-left: 40px;
 }
 
 #mission .content {
@@ -87,4 +87,27 @@ nav span {
   padding: 5px;
   font-weight: bold;
   text-align: center;
+}
+
+/* Locations Section */
+#locations {
+background-image:url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+height:500px;
+width:1200px;
+}
+
+#locations .flex-container {
+  margin:auto;
+  width:1100px;
+}
+
+.location {
+  opacity:1.0;
+  padding:10px;
+  margin:5px 20px;
+  background-color: black;
+  flex-basis: 280px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
 }
